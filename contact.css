@@ -1,0 +1,51 @@
+body{
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+    text-align: center;
+    font-family: quicksand;
+}
+.main{
+    width: 800px;
+    height: 520px;
+    background-color: white;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.img{
+    background-image: url(gambar3.jpg);
+    background-color:white;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1 px solid white;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #6944ff;
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    color: #324e63;
+    font-weight: bold;
+}
+.text1{
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    font-size: 15px;
+}
+.list{
+    text-align: left;
+    padding-left: 270px;
+    padding-right: 270px;
+    line-height: 40px;
+}
